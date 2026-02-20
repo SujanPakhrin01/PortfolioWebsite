@@ -11,7 +11,7 @@
   <img alt="License" src="https://img.shields.io/badge/License-MIT-green.svg">
 </p>  
 
-A **modern, interactive portfolio website** showcasing my skills as a **MERN Stack Developer**. Built with **React, Vite, and Tailwind CSS**, featuring smooth animations, an interactive globe, and a professional showcase of projects & skills.
+A **modern, interactive portfolio website** showcasing my skills as a **Full Stack Developer**. Built with **React, Vite, and Tailwind CSS**, featuring smooth animations, an interactive globe, and a professional showcase of projects & skills.
 
 ---
 
@@ -31,7 +31,7 @@ A **modern, interactive portfolio website** showcasing my skills as a **MERN Sta
 
 ## 🚀 Live Demo
 
-🔗 [**Visit My Portfolio**](https://sujan-tamang01.vercel.app/)
+🔗 [**Visit My Portfolio**](https://sujanpakhrin01.vercel.app/)
 
 ---
 
@@ -131,7 +131,7 @@ src/
 
 ```bash
 # Clone repo
-git clone https://github.com/kojing777/Skiper.git
+git clone https://github.com/SujanPakhrin01/PortfolioWebsite
 cd Skiper
 
 # Install dependencies
@@ -211,11 +211,11 @@ const COLORS = ["#A764FF", "#4B94FD", "#FD4B4E", "#FF8743"];
 
 ## 📞 Contact
 
-**Bijaya Tamang** – MERN Stack Developer
+**Sujan Tamang** – Full Stack Developer
 
-* 📧 Email: [kojingmoktan92@gmail.com](mailto:kojingmoktan92@gmail.com)
-* 💻 GitHub: [@kojing777](https://github.com/kojing777)
-* 🌐 Portfolio: [portfolio-wine-alpha-82.vercel.app](https://portfolio-wine-alpha-82.vercel.app/)
+* 📧 Email: [sujanprogrammer@gmail.com](mailto:sujanprogrammer@gmail.com)
+* 💻 GitHub: [@kojing777](https://github.com/SujanPakhrin01)
+* 🌐 Portfolio: [portfolio-wine-alpha-82.vercel.app](https://sujanpakhrin01.vercel.app/)
 * 📍 Location: Kathmandu, Nepal
 
 ---
