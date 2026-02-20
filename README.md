@@ -37,7 +37,7 @@ A **modern, interactive portfolio website** showcasing my skills as a **Full Sta
 
 ## 📸 Preview
 
-<img src='https://res.cloudinary.com/dp27ua535/image/upload/v1764847212/Screenshot_2025-12-04_170419_kavbuk.png'/>
+<img src='portfolio.png'/>
 
 ---
 
