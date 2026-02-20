@@ -215,7 +215,7 @@ const COLORS = ["#A764FF", "#4B94FD", "#FD4B4E", "#FF8743"];
 
 * 📧 Email: [sujanprogrammer@gmail.com](mailto:sujanprogrammer@gmail.com)
 * 💻 GitHub: [@sujanpakhrin01](https://github.com/SujanPakhrin01)
-* 🌐 Portfolio: [portfolio-wine-alpha-82.vercel.app](https://sujanpakhrin01.vercel.app/)
+* 🌐 Portfolio: [https://sujanpakhrin01.vercel.app/](https://sujanpakhrin01.vercel.app/)
 * 📍 Location: Kathmandu, Nepal
 
 ---
