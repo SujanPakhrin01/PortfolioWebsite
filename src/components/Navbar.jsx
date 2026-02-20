@@ -318,7 +318,7 @@ const Navbar = () => {
                   whileTap={{ scale: 0.98 }}
                 >
                   <a
-                    href="mailto:kojingmoktan92@gmail.com?subject=Hire%20Me%20Inquiry"
+                    href="mailto:sujanprogrammer@gmail.com?subject=Hire%20Me%20Inquiry"
                     className="w-full px-4 py-3 text-sm text-white rounded-full font-medium bg-slate-900/90 flex items-center justify-center gap-2 transition-all duration-300 hover:bg-slate-800/90"
                     target="_blank"
                     rel="noopener noreferrer"
