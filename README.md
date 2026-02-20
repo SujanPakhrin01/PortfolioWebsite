@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👨‍💻 Bijaya Tamang - Portfolio Website
+# 👨‍💻 Sujan Tamang - Portfolio Website
 </div>
 
 <p align="center">
@@ -31,7 +31,7 @@ A **modern, interactive portfolio website** showcasing my skills as a **MERN Sta
 
 ## 🚀 Live Demo
 
-🔗 [**Visit My Portfolio**](https://bijaya-tamang.vercel.app/)
+🔗 [**Visit My Portfolio**](https://sujan-tamang01.vercel.app/)
 
 ---
 
