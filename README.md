@@ -214,7 +214,7 @@ const COLORS = ["#A764FF", "#4B94FD", "#FD4B4E", "#FF8743"];
 **Sujan Tamang** – Full Stack Developer
 
 * 📧 Email: [sujanprogrammer@gmail.com](mailto:sujanprogrammer@gmail.com)
-* 💻 GitHub: [@kojing777](https://github.com/SujanPakhrin01)
+* 💻 GitHub: [@sujanpakhrin01](https://github.com/SujanPakhrin01)
 * 🌐 Portfolio: [portfolio-wine-alpha-82.vercel.app](https://sujanpakhrin01.vercel.app/)
 * 📍 Location: Kathmandu, Nepal
 
