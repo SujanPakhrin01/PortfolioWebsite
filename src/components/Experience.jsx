@@ -55,7 +55,6 @@ const Experience = () => {
       duration: "2024 - Current",
       description:
         "Tribhuwan University",
-      achievements: ["GPA: 3.6/4.0 First Sem"],
       //  "Capstone Project Award"
     },
     {
